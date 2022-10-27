@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>qt-installer-framework</id>
+    <version>4.4.2</version>
+    <packageSourceUrl>https://download.qt.io/official_releases/qt-installer-framework/4.4.2</packageSourceUrl>
+    <title>Qt Installer Framework (Install)</title>
+    <authors>Qt project</authors>
+    <projectUrl>https://code.qt.io/cgit/installer-framework/installer-framework.git</projectUrl>
+    <licenseUrl>https://code.qt.io/cgit/installer-framework/installer-framework.git/tree/LICENSE.GPL3-EXCEPT</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://code.qt.io/cgit/installer-framework/installer-framework.git</projectSourceUrl>
+    <docsUrl>https://doc.qt.io/qtinstallerframework</docsUrl>
+    <tags>qt qtifw qtinstaller QtIFW</tags>
+    <summary>The Qt Installer Framework provides a set of tools and utilities to create installers for the supported desktop Qt platforms: Linux, Microsoft Windows, and macOS</summary>
+    <description>The Qt Installer Framework provides a set of tools and utilities to create installers once, and deploy them across all the supported desktop Qt platforms without rewriting the source code.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
