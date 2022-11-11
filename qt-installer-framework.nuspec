@@ -3,7 +3,7 @@
   <metadata>
     <id>qt-installer-framework</id>
     <version>4.4.2</version>
-    <packageSourceUrl>https://download.qt.io/official_releases/qt-installer-framework/4.4.2</packageSourceUrl>
+    <packageSourceUrl>https://github.com/jkito/choco-qt-installer-framework</packageSourceUrl>
     <title>Qt Installer Framework (Install)</title>
     <authors>Qt project</authors>
     <projectUrl>https://code.qt.io/cgit/installer-framework/installer-framework.git</projectUrl>
