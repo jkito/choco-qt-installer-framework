@@ -5,6 +5,7 @@
     <version>4.4.2</version>
     <packageSourceUrl>https://github.com/jkito/choco-qt-installer-framework</packageSourceUrl>
     <title>Qt Installer Framework (Install)</title>
+    <owners>credwinballs</owners>
     <authors>Qt project</authors>
     <projectUrl>https://code.qt.io/cgit/installer-framework/installer-framework.git</projectUrl>
     <licenseUrl>https://code.qt.io/cgit/installer-framework/installer-framework.git/tree/LICENSE.GPL3-EXCEPT</licenseUrl>
