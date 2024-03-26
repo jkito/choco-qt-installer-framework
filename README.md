@@ -4,10 +4,10 @@ Downloads the installer from official Qt download location: https://download.qt.
 
 - Command to install using the downloaded installer:
 ```
-PS> ./QtInstallerFramework-windows-x64-4.4.2.exe --da --al -c
+PS> ./QtInstallerFramework-windows-x64-4.7.0.exe --da --al -c
 ```
 
 - Command to uninstall:
 ```
-PS> ./QtInstallerFramework-windows-x64-4.4.2.exe pr -c
+PS> ./QtInstallerFramework-windows-x64-4.7.0.exe pr -c
 ```

@@ -1,6 +1,6 @@
 ﻿$ErrorActionPreference = 'Stop';
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://download.qt.io/official_releases/qt-installer-framework/4.4.2/QtInstallerFramework-windows-x64-4.4.2.exe'
+$url        = 'https://download.qt.io/official_releases/qt-installer-framework/4.7.0/QtInstallerFramework-windows-x64-4.7.0.exe'
 
 $packageArgs = @{
   packageName   = $env:ChocolateyPackageName
@@ -9,7 +9,7 @@ $packageArgs = @{
   url           = $url
 
   softwareName  = 'Qt Installer Framework'
-  checksum      = 'a862d08a13fbd531b7ac3a156a5932376f88a655bd0e5f39d0400143e0611463'
+  checksum      = '9fcbad5c2d29aee4e9a1f8f2516e067e6476b37e2602b399418dbc6ce1b0b8b9'
   checksumType  = 'sha256'
 
   silentArgs    = "in --da -c --al"
